@@ -1,0 +1,48 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "portName": "Ft. Lauderdale",
+      "portCode": "FLL",
+      "featureclass": "Port",
+      "rotations": {
+        "arrivalDayRotation": 0.0000,
+        "departureDayRotation": 0.0000
+      },
+      "portTypes": [
+        "P1",
+        "P2"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        131.2223,
+        23.2323
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "portName": "ADELAIDE, AUSTRALIA",
+      "portCode": "ADL",
+      "featureclass": "Port",
+      "rotations": {
+        "arrivalDayRotation": 0.0000,
+        "departureDayRotation": 0.0000
+      },
+      "portTypes": [
+        "H",
+        "A"
+      ]
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        138.5079505,
+        -34.79916667
+      ]
+    }
+  }
+]
